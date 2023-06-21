@@ -9,9 +9,7 @@
 >翻译 [CycleUser](http://blog.cycleuser.org)
 
 
-+   [在线阅读](https://think-py.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/think-py-2e-zh/)
-
++   [在线阅读](https://think-py.flygon.net)
 ## 译者的话
 这是一本很经典的 Python 入门教材，也是一本很适合初学者的编程入门书籍。网上有过一些翻译，不过我觉得都还是自己动手来尝试一下，这样更有利于深入了解和体验，所以就再造轮子了。
 
@@ -159,14 +157,6 @@ Think Python 这本书是面向初学者介绍 Python 编程。
 ```
 docker pull apachecn0/think-py-2e-zh
 docker run -tid -p <port>:80 apachecn0/think-py-2e-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install think-py-2e-zh
-think-py-2e-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
